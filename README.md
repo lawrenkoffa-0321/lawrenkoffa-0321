@@ -5,7 +5,7 @@
 <!--
 **lawrenkoffa-0321/lawrenkoffa-0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-✨I am a strategy-forward, data-powered leader who thrives at the intersection of growth, operations, and execution. Turning complex problems into scalable wins. From leading enterprise wide performance frameworks and advising executive teams to driving revenue expansion, M&A strategy, and operational turnarounds, I consistently bring structure, clarity, and momentum to organizations in motion. I’ve built and led high-performing teams, launched new service lines, transformed underperforming businesses, and embedded analytics (hello Power BI & Tableau dashboards) to fuel accurate, faster decision-making. With a background that spans healthcare, startups, and consumer brands, and credentials to match (Lean Six Sigma Black Belt, PMP, data analytics) I am known for rolling up my sleeves, aligning stakeholders, and delivering results that stick.✨ 
+<p align='left'> ✨I am a strategy-forward, data-powered leader who thrives at the intersection of growth, operations, and execution. Turning complex problems into scalable wins. From leading enterprise wide performance frameworks and advising executive teams to driving revenue expansion, M&A strategy, and operational turnarounds, I consistently bring structure, clarity, and momentum to organizations in motion. I’ve built and led high-performing teams, launched new service lines, transformed underperforming businesses, and embedded analytics (hello Power BI & Tableau dashboards) to fuel accurate, faster decision-making. With a background that spans healthcare, startups, and consumer brands, and credentials to match (Lean Six Sigma Black Belt, PMP, data analytics) I am known for rolling up my sleeves, aligning stakeholders, and delivering results that stick.✨ 
 
 In short: I am the leader organizations bring in when they’re ready to level up, and actually do it. 🚀
 
@@ -15,5 +15,5 @@ In short: I am the leader organizations bring in when they’re ready to level u
 - 💬 Ask me about what excites me most about my career....
 - 📫 How to reach me: Email or Linkedin
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am training for my first 5k race this year 🏃🏾‍♀️!
+- ⚡ Fun fact: I am training for my first 5k race this year 🏃🏾‍♀️!</a></p>
 -->
