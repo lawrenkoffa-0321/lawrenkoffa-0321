@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Lawren, a Strategic Business Intelligence Professionsal
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:lawren.koffa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Lawren%20Koffa-D14836?logo=gmail&logoColor=white)](mailto:lawren.koffa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lawren%20Koffa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrenkoffa/)
 
 <!--
-
+**lawrenkoffa-0321/lawrenkoffa-0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ✨I am a strategy-forward, data-powered leader who thrives at the intersection of growth, operations, and execution. Turning complex problems into scalable wins. From leading enterprise wide performance frameworks and advising executive teams to driving revenue expansion, M&A strategy, and operational turnarounds, I consistently bring structure, clarity, and momentum to organizations in motion. I’ve built and led high-performing teams, launched new service lines, transformed underperforming businesses, and embedded analytics (hello Power BI & Tableau dashboards) to fuel accurate, faster decision-making. With a background that spans healthcare, startups, and consumer brands, and credentials to match (Lean Six Sigma Black Belt, PMP, data analytics) I am known for rolling up my sleeves, aligning stakeholders, and delivering results that stick.✨ 
 
